@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LucasKallas-Silva
+- 👀 I’m interested in clinical research, biostatistics, epidemiology and evidence-based medicine
+- 🌱 I’m currently learning data analysis in R
+- 📫 Reach me at lucas.kallas@gmail.com
